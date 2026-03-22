@@ -1,5 +1,5 @@
 # Georgios Basios
-### Computer Science and Engineering Student | Aspiring Penetration Tester
+### Computer Science and Engineering Student | Aspiring Red Teamer
 
 ---
 
